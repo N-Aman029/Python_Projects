@@ -7,6 +7,7 @@ A command-line based quiz game inspired by the popular “Who Wants to Be a Mill
 
 ### Tech Stack :
 ∎ Python (Core Python: functions, loops, conditionals)
+
 ∎ Standard Libraries (time, random)
 
 ### Data Source :
@@ -14,9 +15,13 @@ A command-line based quiz game inspired by the popular “Who Wants to Be a Mill
 
 ### Features / Highlights :
 ∎ Interactive multiple-choice quiz system
+
 ∎ Score tracking based on correct answers
+
 ∎ Timer-based question handling for better user engagement
+
 ∎ Modular code structure using functions for scalability
+
 ∎ Easy to extend with new questions or features
 
 ###
@@ -28,15 +33,20 @@ A Python-based utility that allows users to merge multiple PDF files into a sing
 
 ### Tech Stack :
 ∎ Python
+
 ∎ PyPDF2 (or pypdf library)
 
 ### Data Source :
 ∎ User-provided PDF files from local system
+
 ∎ Input file paths are passed through code or user input
 
 ### Features / Highlights :
 ∎ Merge multiple PDF files into one consolidated document
+
 ∎ Simple and efficient file handling using Python
+
 ∎ Reduces manual effort in document management
+
 ∎ Modular and reusable code structure
 ∎ Works with any standard PDF files
