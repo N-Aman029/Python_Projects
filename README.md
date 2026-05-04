@@ -13,10 +13,11 @@ A command-line based quiz game inspired by the popular “Who Wants to Be a Mill
 ∎ Predefined set of quiz questions stored in the program (list/dictionary format)
 
 ### Features / Highlights :
-Interactive multiple-choice quiz system
-Score tracking based on correct answers
-Timer-based question handling for better user engagement
-Modular code structure using functions for scalability
-Easy to extend with new questions or features
+∎ Interactive multiple-choice quiz system
+∎ Score tracking based on correct answers
+∎ Timer-based question handling for better user engagement
+∎ Modular code structure using functions for scalability
+∎ Easy to extend with new questions or features
 
 ### Certificate :
+ ![Dashboard Preview](https://github.com/N-Aman029/Python_Projects/blob/main/Complete_2026_Python_Bootcamp_Certificate.pdf)
